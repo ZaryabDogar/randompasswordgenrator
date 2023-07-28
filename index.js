@@ -43,7 +43,7 @@ class password{
     a.value=p
 }
     genrate_fpassword(){
-        let arr=["password","dogar di yari ","te sheer di swari kise ","kise no naseeb hundi aee","ptaa nai ki password aa","ptaa nai ywr hun ki krna to aedaa"]
+        let arr=["password","I Forgot My Password ","ImTooGood4This ","KissMyPassword","ptaa nai ki password aa","ptaa nai ywr hun ki krna to aedaa","Hahaha","nothing","changeme"]
         
         let a=document.getElementById("input")
         var p=""
